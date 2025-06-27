@@ -2,7 +2,7 @@
 
 **PetWise** is an intelligent pet recommendation system that helps users find pets, products, and services tailored to their lifestyle, preferences, and environment.
 
----
+
 
 # Features
 
@@ -11,7 +11,7 @@
 - Suggests products and services for pet care
 - Responsive interface with clean design
 
----
+
 
 # Tech Stack
 
@@ -21,7 +21,7 @@
 - **Static Assets:** Images, CSS, JS in `static/`
 - **Dependency Management:** `requirements.txt`
 
----
+
 
 # Project Structure
 
@@ -36,7 +36,7 @@ PetWise/
 ├── README.md # Project documentation
 
 
----
+
 
 
 # Setup Instructions
