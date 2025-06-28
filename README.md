@@ -24,7 +24,7 @@
 
 
 # Project Structure
-    ```bash
+    ```
     PetWise/
     ├── static/                  # Static files (CSS, images, JS)
     │   └── images/              # Images used in the project
@@ -33,7 +33,8 @@
     ├── package.json             # Node.js package info (if applicable)
     ├── package-lock.json        # Node.js lock file
     ├── requirements.txt         # Python dependencies
-    └── README.md                # Project documentation
+    └── README.md                # Project documentation```
+
 
 # Setup Instructions
 
