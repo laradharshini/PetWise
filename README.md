@@ -24,19 +24,19 @@
 
 
 # Project Structure
-    ```
-    PetWise/
-    ├── static/                  # Static files (CSS, images, JS)
-    │   └── images/              # Images used in the project
-    ├── templates/               # HTML templates
-    ├── app.py                   # Main Flask application
-    ├── package.json             # Node.js package info (if applicable)
-    ├── package-lock.json        # Node.js lock file
-    ├── requirements.txt         # Python dependencies
-    └── README.md                # Project documentation```
+  ```bash
+  PetWise/
+  ├── static/                  # Static files (CSS, images, JS)
+  │   └── images/              # Images used in the project
+  ├── templates/               # HTML templates
+  ├── app.py                   # Main Flask application
+  ├── package.json             # Node.js package info (if applicable)
+  ├── package-lock.json        # Node.js lock file
+  ├── requirements.txt         # Python dependencies
+  └── README.md                # Project documentation
+  ```
 
-
-# Setup Instructions
+ Setup Instructions
 
 - Clone the repository:
   ```bash
